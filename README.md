@@ -1,4 +1,4 @@
-# ABC-Real-Estate--Hosing-Price-Predictor
+# ABC-Real-Estate--Housing-Price-Predictor
 
 Created a ML model to predict the House price .Here we conseidered a Boston Dataset from kaggle.
 
