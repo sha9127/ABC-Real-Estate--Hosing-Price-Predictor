@@ -1,7 +1,9 @@
 # ABC-Real-Estate--Housing Price-Prediction
 
-Created a ML model to predict the House price .Here we conseidered a Boston Dataset from kaggle.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Skills Used: Data Cleaning & Manipulation , EDA ,Feature Scaling , Model selection & Building , Cross Validation. 
+Created a Predictive ML model to predict the House price using diffrent Regression Model on  Boston Dataset .
 
-Data Source and Link : sklearn dataset
+**Skills Used:** Data Cleaning & Manipulation , EDA ,Feature Scaling , Model selection & Building , Cross Validation. 
+
+**Data Source and Link :** sklearn dataset
